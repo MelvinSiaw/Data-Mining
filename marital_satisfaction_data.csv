@@ -1,4 +1,4 @@
-Country ,"Sex",Age,Marriage_duration,Number_of_children,Num_brought_up_children,"Education","Material status","Religion","Religiosity","Pension","MRQ",,,,,,,,,"KMSS",,,"GLOBE_survey",,,,,,,
+"Country","Gender","Age","Marriage_years","children","brought_up_children","Education","Material_status","Religion","Religiosity","Pension","Love1","happy","Esteem1","Love2","Love3","Esteem2","self_R","Love4","Love5","KMSS1","KMSS2","KMSS3","Scale1","Scale2","Scale3","Scale4","Scale5","Scale6","Scale7","Scale8"
 Brazil ,1,21,2,0,0,5,3,1,4,4,1,1,1,1,2,2,1,1,1,7,7,7,1,1,1,1,1,1,1,1
 Brazil ,1,29,3,1,0,5,3,1,6,5,1,1,1,1,1,1,1,2,1,6,6,6,2,1,1,1,1,1,1,1
 Brazil ,1,30,7,0,0,5,3,1,4,4,1,1,2,1,1,1,1,3,1,7,7,7,2,1,2,1,1,1,1,1
